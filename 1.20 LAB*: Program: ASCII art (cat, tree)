@@ -1,0 +1,16 @@
+#(1) Output a tree. (Submit for 2 points). 
+# (2) Below the tree (with two blank lines), output this cat. (Submit for 3 points, so 5 points total).
+
+# Draw tree
+print('   *')
+print('  ***')
+print(' *****')
+print('*******')
+print('  ***\n')
+
+
+print('\n/\\   /\\')
+print('  o o')
+print(' =   =')
+print('  ---')
+# Type your code here
